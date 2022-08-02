@@ -6,6 +6,6 @@ int main()
     srand(time(NULL));
     for(int i = 0; i < 6;i++)
     {
-        printf("O número sorteado é: %d\n", rand()%100);
+        printf("O número sorteado foi: %d\n", rand()%100);
     }
 }
