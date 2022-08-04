@@ -10,7 +10,7 @@ void menu()
 }
 float entrada(float new)
     {
-        float e = 2451;
+        float e = 2000;
         if(new != 0){
         printf("Qual o valor de entrada?\n");
         scanf("%f", &new);
