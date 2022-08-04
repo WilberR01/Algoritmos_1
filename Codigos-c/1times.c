@@ -4,7 +4,7 @@
 int main ()
 {   
     
-    char times[][11]= {"Flamengo","São Paulo","Vila Nova","Corinthians"};
+    char times[][11]= {"Goiás","São Paulo","Vila Nova","Corinthians"};
     int esc;
 
     printf("Bem Vindo ao sistema de seleção de times! \nPor favor selecione um dos times a seguir:\n");
